@@ -1,4 +1,4 @@
-# EOTE_vs_MLE
+# EOTE vs MLE
 Entropic Optimal Transport Estimator vs Maximum Likelihood Estimator
 
 
