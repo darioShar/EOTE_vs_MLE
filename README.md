@@ -1,5 +1,5 @@
-# EOTE vs MLE
-Entropic Optimal Transport Estimator vs Maximum Likelihood Estimator
+# An Alternative to the Log-Likelihood with Entropic Optimal Transport
+Entropic Optimal Transport Estimator vs Maximum Likelihood Estimator (EOTE vs MLE)
 
 
 A study of a novel estimator inspired by tools from optimal transport. The latter theory essentially offers a geometry on the space of measures, 
